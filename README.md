@@ -10,7 +10,6 @@
 
 ## 🚀 About Me
 - 🌱 Currently learning **Full-Stack Web Development**  
-- 🔨 Building: **Society Organiser** 🏡  
 - 💬 Ask me about: **MERN, Web Design, Open Source**  
 - 🎯 Goal 2025: Master **DevOps & Cloud** ☁️  
 - 📫 Reach me on:  
@@ -46,24 +45,13 @@
 ## 🏆 Achievements
 - ✅ Completed multiple **MERN Projects**  
 - 🌟 Active **Open Source Contributor**  
-- 🚀 Solved **100+ DSA problems** for strong fundamentals  
 
 ---
 
-## 🌐 Fun Section
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Happy-Singh-Rajpurohit&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</p>
+## 🌐 Profile Views
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jz7qsl7ofigb6df67olguwceji&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
-</p>
-
----
-
-## ✨ Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
