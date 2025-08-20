@@ -48,13 +48,6 @@
 
 ---
 
-## 🌐 Profile Views
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jz7qsl7ofigb6df67olguwceji&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
-</p>
-
----
 
 <p align="center"> 
   💖 Thanks for visiting! Let's connect and build something amazing together 🚀  
