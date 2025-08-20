@@ -1,47 +1,75 @@
-<h1 align="center">👋 Hi, I'm Happy Singh Rajpurohit</h1>
-<h3 align="center">🌱 A passionate Web Developer from India</h3>
+<!-- Banner -->
+<h1 align="center">✨ Hey there, I'm <span style="color:#00C9A7;">Happy Singh Rajpurohit</span> 👋</h1>
+<h3 align="center">💻 Passionate Web Developer | 🌱 Lifelong Learner | 📍 India</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C9A7&size=24&center=true&vCenter=true&width=550&lines=🚀+Full+Stack+Web+Developer;💡+Problem+Solver;⚡+Tech+Explorer;🌎+Open+Source+Contributor">
+</p>
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently learning **Web Development**  
-- 💻 Working on: **Society Organiser**  
+## 🚀 About Me
+- 🌱 Currently learning **Full-Stack Web Development**  
+- 🔨 Building: **Society Organiser** 🏡  
+- 💬 Ask me about: **MERN, Web Design, Open Source**  
+- 🎯 Goal 2025: Master **DevOps & Cloud** ☁️  
 - 📫 Reach me on:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/happy-singh-rajpurohit/)  
-  [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:happyrajpurohit2006@gmail.com)  
-  [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/HappyRajpurohit10/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/happy-singh-rajpurohit/)  
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:happyrajpurohit2006@gmail.com)  
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/HappyRajpurohit10/)
 
 ---
 
-### 💻 Tech Stack
-
-| Frontend | Backend | Database | Tools & Others |
-|----------|---------|----------|----------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![EJS](https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=javascript&logoColor=white) | | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | | | |
-| ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white) | | | |
-| ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white) | | | |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | | | |
-
----
-
-### ⚡ GitHub Stats
+## 🛠️ Tech Stack
+#### 🚀 Languages & Frameworks
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Happy-Singh-Rajpurohit&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Happy-Singh-Rajpurohit&theme=radical" alt="streak" height="180"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,materialui,nodejs,express,mongodb,mysql,c,git,github" />
 </p>
 
 ---
 
-### 📊 Top Languages
+## ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happy-Singh-Rajpurohit&layout=compact&theme=radical" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Happy-Singh-Rajpurohit&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Happy-Singh-Rajpurohit&theme=tokyonight&hide_border=true" height="180"/>  
 </p>
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Happy-Singh-Rajpurohit&style=for-the-badge)
+## 📊 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happy-Singh-Rajpurohit&theme=tokyonight&layout=compact&hide_border=true&langs_count=8"/>
+</p>
 
-⭐ From [Happy Singh Rajpurohit](https://github.com/Happy-Singh-Rajpurohit)
+---
+
+## 🏆 Achievements
+- ✅ Completed multiple **MERN Projects**  
+- 🌟 Active **Open Source Contributor**  
+- 🚀 Solved **100+ DSA problems** for strong fundamentals  
+
+---
+
+## 🌐 Fun Section
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Happy-Singh-Rajpurohit&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jz7qsl7ofigb6df67olguwceji&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
+</p>
+
+---
+
+## ✨ Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center"> 
+  💖 Thanks for visiting! Let's connect and build something amazing together 🚀  
+</p>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Happy-Singh-Rajpurohit&style=for-the-badge&color=00C9A7)
